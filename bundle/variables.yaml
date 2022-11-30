@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-cyberark
+- admin-user: bnasslahsen-admin
+- manager-user: bnasslahsen
